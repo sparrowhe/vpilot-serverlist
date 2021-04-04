@@ -6,4 +6,4 @@ SINGAPORE:68.183.185.148:Singapore:SINGAPORE:1:
 UK-1:209.97.177.84:London, UK:UK-1:1:
 USA-EAST:134.209.67.219:New York, USA:USA-EAST:1:
 USA-WEST:165.22.163.56:San Francisco, USA:USA-WEST:1:
-SinoFSX:fly.sinofsx.com:Shanghai, China:1
+SinoFSX:fly.sinofsx.com:Shanghai, China:1:
