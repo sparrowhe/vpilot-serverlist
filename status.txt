@@ -1,1 +1,1 @@
-url1=http://sparrowhe.top/vpilot-serverlist/vatsim-servers.txt
+url1=https://raw.githubusercontent.com/sparrowhe/vpilot-serverlist/main/vatsim-serverlist.txt
